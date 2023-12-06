@@ -5,3 +5,4 @@ https://adventofcode.com/2023
 * [Day 3](day3/README.md)
 * [Day 4](day4/README.md)
 * [Day 5](day5/README.md)
+* [Day 6](day6/README.md)
