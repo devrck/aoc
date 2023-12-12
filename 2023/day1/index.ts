@@ -1,5 +1,5 @@
-const readline = require('readline');
-const fs = require('fs');
+import readline from 'readline';
+import fs from 'fs';
 
 const input = readline.createInterface({
     input: fs.createReadStream('input')

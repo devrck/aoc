@@ -2,6 +2,11 @@
   "name": "devrck/a0c",
   "version": "1.0.0",
   "devDependencies": {
-    "@types/node": "^20.10.2"
+    "@types/node": "^20.10.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "queue-typescript": "^1.0.1"
   }
 }
